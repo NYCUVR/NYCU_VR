@@ -1,0 +1,47 @@
+.crd-h{
+    height: 200px;
+}
+
+.crd-hh{
+    height: 300px;
+}
+
+.image_1{
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    background-image: url(/RacingCar/img/vr5.jpg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+}
+
+.image_2{
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    background-image: url(/RacingCar/img/vr6.jpg);
+    background-repeat: no-repeat;
+    background-size: 75%;
+    background-position: center;
+}
+
+
+.zoom{
+    transition: all 1s;
+}
+
+.zoom:hover {
+    transform: scale(1.05);
+}
+
+@media screen and (max-width: 500px){
+
+
+    .crd-h{
+        height: 150px;
+    }
+
+    .crd-hh{
+        height: 150px;
+    }
+
+}

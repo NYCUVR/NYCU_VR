@@ -1,0 +1,158 @@
+.visible{
+    display: none;
+}
+
+.crd-h{
+    height: 200px;
+}
+
+.crd-text{
+    height: 30px;
+}
+
+.crd-hh{
+    height: 58vh;
+}
+
+.title-logo{
+    font-size: 40px;
+}
+
+.about_fsae{
+    font-size: 16px;
+}
+
+.wabay{
+    background-color:white;
+    height: 20vh;
+    width: 100%;
+    background-image: url(../img/wabay-dt.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50% ;
+}
+
+.fsae{
+    background-color:black;
+    height: 10vh;
+    width: 100%;
+    background-image: url(https://www.fsaeonline.com/cdsweb/SharedComponents/fsaeonline.com/img/formula_r_wht_spot.png);
+    background-repeat: no-repeat;
+    background-size: 30vh;
+    background-position: 50% 50% ;
+}
+
+.abous{
+    background-color:black;
+    height: 10vh;
+    width: 100%;
+    background-image: url(../../AboutUS/img/NVR-LOGO.png);
+    background-repeat: no-repeat;
+    background-size: 20vh;
+    background-position: 50% 50% ;
+}
+
+.image_l-1{
+    width: 100%;
+    background-image: url(../img/BLOG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 45% ;
+}
+
+.image_r-1{
+    width: 100%;
+    background-image: url(../img/PH.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+}
+
+.image_l-2{
+    width: 100%;
+    background-image: url(../img/spo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 45% ;
+}
+
+.image_r-2{
+    width: 100%;
+    background-image: url(../img/sto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+}
+
+.image_xl{
+    width: 100%;
+    background-image: url(../img/RAC-CAR.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 85% ;
+}
+
+
+.image_cfd{
+    width: 100%;
+    background-image: url(../img/cfd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center center ;
+}
+
+
+.yout {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 42%;
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.zoom{
+    transition: all 1s;
+}
+
+.zoom:hover {
+    transform: scale(1.1);
+}
+
+.vri{
+        justify-content:flex-end ;
+        align-items:flex-end ;
+}
+
+@media screen and (max-width: 500px){
+
+    .crd-h{
+        height: 150px;
+    }
+    .crd-hh{
+        height: 20vh;
+    }
+    .title-logo{
+        font-size: 45px;
+    }
+    .vri{
+        justify-content:flex-end ;
+        align-items:center ;
+    }
+
+    .wabay{
+        background-color:white;
+        height: 100px;
+        width: 100%;
+        background-image: url(../home/img/wabay-mb.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position:center center ;
+        margin-bottom: 30px;
+    }
+}

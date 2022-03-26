@@ -1,0 +1,32 @@
+.crd-h{
+    height: 300px;
+}
+
+.hide{
+    display: none;
+}
+
+.image_xl{
+    width: 100%;
+    background-image: url(/Sponsors/img/SPON-LOGO.svg);
+    background-size: cover;
+    background-position: center;
+}
+
+@media screen and (max-width: 500px){
+
+    .big{
+        display: block;
+    }
+
+    .crd-h{
+        height: 150px;
+    }
+
+    .image_xl{
+        width: 100%;
+        background-image: url(../img/SPON-LOGO.svg);
+        background-size: cover;
+        background-position: center;
+    }
+}
