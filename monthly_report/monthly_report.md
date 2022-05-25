@@ -4,27 +4,27 @@
   首次嘗試自行將車架管管口切割成適當形狀，方便焊接
   目前已焊接完成車架主環以前部分，下圖為隊員切管畫面
   
-  ![](https://i.imgur.com/RsZnBOy.png)
+![](https://i.imgur.com/RsZnBOy.png)
 
 *感謝永傑空調機械股份有限公司贊助提供焊接設備及場地*
 
 * #### 碳纖板製作
   已完成方向盤碳纖板加工，為兼顧方向盤之穩固性，圖為十層碳纖板之厚度，中   間孔洞以銑床加工，兩側握把處以3D列印，下圖為方向板碳纖板完成成果
   
-  ![](https://i.imgur.com/jncB6Iy.png)
+![](https://i.imgur.com/jncB6Iy.png)
 
 *感謝福懋興業股份有限公司贊助碳纖維布*
 
 * #### 座椅發泡棉製作
   座椅用四塊發泡棉以加工完成，待座椅背板碳纖板加工完畢即可組裝，下圖     為座椅示意圖
   
-  ![](https://i.imgur.com/ajBQC3B.png)
+![](https://i.imgur.com/ajBQC3B.png)
 
 * #### 頭枕加工
   目前頭枕已切割成適當大小，且外層完成縫製防火布包裹
   改善去年以三秒膠固定的不穩固性，並提升外觀，下圖為頭枕完成成果
   
-  ![](https://i.imgur.com/qaHB53w.png)
+![](https://i.imgur.com/qaHB53w.png)
 
 ---
 
@@ -32,12 +32,12 @@
 * #### 碳纖管試驗
   完成疲勞試驗，且開始加工A臂用鋁接頭，下圖為疲勞試驗過程
 
-  ![](https://i.imgur.com/Vs7NENE.png)
+![](https://i.imgur.com/Vs7NENE.png)
 
 * #### Upright(立柱)、Hub(車軸)組合
   裝配輪圈、Upright、Hub、卡鉗、碟盤、軸承等零件，確認無干涉，目前量測   簧下重量單輪約8.9kg，符合目標10kg內，下圖為組裝成果
   
-  ![](https://i.imgur.com/CZb3fRu.png)
+![](https://i.imgur.com/CZb3fRu.png)
 
 *感謝佺盟科技有限公司協助CNC加工*
 *感謝久大軸承有限公司贊助各式軸承*
@@ -47,14 +47,14 @@
 * #### Shocker(避震)
   使用Bazooka4.0氣壓式避震，此款避震器導入FAP浮動氣壓式活   塞專利，   透過氣壓取代傳統彈簧給予車輛足夠的支撐，並提升車手操駕舒適性。
 
-  ![](https://i.imgur.com/sQchovz.png)
+![](https://i.imgur.com/sQchovz.png)
 
 *感謝銳新國際有限公司贊助Bazooka氣壓避震器*
 
 * #### 輪胎
   四條乾胎已事先到貨，懸吊參數設定，如Camber值，皆根據輪胎設定，在賽事   中扮演至關重要的角色
 
-  ![](https://i.imgur.com/pSM0pJp.png)
+![](https://i.imgur.com/pSM0pJp.png)
 
 *感謝固特異輪胎贊助雨胎D2703四條*
 
@@ -65,7 +65,7 @@
 * #### 馬達支架設計
   完成叫料(S41C)並送工廠雷切，下圖為馬達支架圖檔
 
-  ![](https://i.imgur.com/K6MTV6x.png)
+![](https://i.imgur.com/K6MTV6x.png)
 
 *感謝八達創新科技股份有限公司贊助馬達及控制器*
 
@@ -97,7 +97,7 @@
 * #### 電池箱設計更動
   原先設計版本會使全車重心過高(約315mm)，傾斜測試[1]可能不會過，因此更改電池箱設計，將電池箱高度降低，亦可將馬達控制器及高壓箱擺放位置降低，以降低重心至約301mm，下圖為更新後電池箱圖檔
 
-  ![](https://i.imgur.com/4FCfeZP.png)
+![](https://i.imgur.com/4FCfeZP.png)
 
 *感謝永傑空調機械股份有限公司協助雷切*
 
@@ -105,8 +105,8 @@
 
 * #### 馬達控制器及高壓箱固定
   為降低重心高度，且因應電池箱高度下降，將控制器及高壓箱下移固定，接線順序為電池箱 > 高壓箱 > 控制器 > 馬達，下圖為更新擺放設計後圖檔
-  
-  ![](https://i.imgur.com/Fno7Dzo.png)
+
+![](https://i.imgur.com/Fno7Dzo.png)
 
 
 ---
