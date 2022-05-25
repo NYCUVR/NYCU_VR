@@ -1,6 +1,6 @@
 
 <!doctype html>
-<html lang="en">
+<html lang="en" style="height:100vh">
   <head>
 
     <title>VR6 月報(June)</title>
@@ -30,7 +30,13 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 </head>
 
-  <body style="background-color: #ffffff">
+<style>
+    *{
+        border: solid black 1px;
+    }
+</style>
+
+  <body style="background-color: #ffffff; height: 100vh;">
 
     <div class="container">
 
@@ -61,45 +67,17 @@
 
 
         <div class="row" id="data" style="display: none;">
-            <div class="col-12">
-                <zero-md src="./monthly_report.md">
-                    <template>
-                        <!-- Define your own styles inside a `<style>` tag -->
-                        <style>
-                          img{
-                            max-height: 25rem;
-                            border-radius: 1rem;
-                            margin-left: 1rem;
-                            margin-right: 1rem;
-                          }
-                        </style>
-                      </template>
-                </zero-md>
+            <div class="col-12" style="height: 1000vh; border: solid black 1px;">
+                <iframe width="100%" height="100%" src="https://hackmd.io/features" frameborder="0"></iframe>
             </div>
         </div>
 
-    </div>
-
-    <!-- foot -->
-
-    <div class="container animate__animated animate__fadeInUp animate__delay-2s animate__slow">
         <div class="row">
             <div class="foot col-12 d-flex justify-content-center align-items-center text-body">
                 <a class="text-decoration-none text-dark " href="https://www.renze.ga/"><h6> Website designed by RENZE.</h6></a> 
         </div>
+
     </div>
-
-    <style>
-        .frame-abc {
-        border:none;
-        overflow:hidden;
-        margin:0;
-        height:230px;
-        width:570px; 
-        }
-        </style>
-
-    <iframe class="frame-abc" scrolling='no' src="https://hackmd.io/features" frameborder="0"></iframe>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
