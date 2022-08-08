@@ -10,12 +10,12 @@
 
 有別於 VR5 油車，VR6 因應未來趨勢，以「電車」為目標設計。VR6 首次導入 V-model，先確立工作分配並抓出前代車失誤並找出優化、改進方案，再逐步進行設計目標確立、規格訂定、測試調教，至最終驗證等流程。受疫情影響，VR6 遇上資金困乏、加工時程延誤等狀況，成員們依舊不懈與廠商接洽，並從設計到加工及最後的系統整合皆盡力親自完成，期許 VR6 能延續 VR5 的榮耀。
 
-welcome to old NYTU-VULPES-RACING site, to visite new one → [New](https://nycuvr.github.io/site/)
+welcome to old NYTU-VULPES-RACING site, to visite new one → [New](https://nycuvr.github.io/NYCU_VR/)
 
 Visite NYCUVR Github page → [NUCUVR](https://github.com/NYCUVR)
 
 ## Page preview
-[Link](https://renzeh.github.io/NCTU-VULPES-RACING/)
+[Link](https://nycuvr.github.io/NYCU_VR/)
 
 ---
 This website developed by Renze H. 2021
