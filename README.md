@@ -2,13 +2,13 @@
 
 ## About Us
 
-我們是一群來自國立陽明交通大學的學生，團隊廣納來自各系，擁有各方技能的成員。起初在 2008 年，一個學生造車尚未風行的年代，串連起愛車與造車的熱情，交大 NVR竹狐造車正式成立。一台以熱情為軸心、以叛逆為加速逆風前行的賽車，在風城蓄勢待發、準備啟程。
+We are a group of students from National Yang Ming Jiaotong University. The team includes members from various departments with various skills. At first, in 2008, in an era when students' car-making was not yet popular, the NVR Bamboo and Fox Cars of Jiaotong University was formally established by linking the passion of car-loving and car-making. A racing car with passion as the axis and rebellion as the acceleration against the wind, ready to go in the Windy City.
 
-竹狐造車長年致力於開發油電混合動力賽車，2020 改以開發 VR5 燃油賽車，並著手在2021 鑽研 VR6 電動賽車相關技術。我們更大、更遠的目標是要將成果帶到國際，原先計畫以 VR6 電動賽車前往今年九月於日本進行的「國際學生方程式賽車大賽」去追求夢想，邁向國際為台灣爭光，由於新冠肺炎，日本 FSAE 官方宣布了 2022 年賽事取消境外隊伍資格。在面臨資金缺乏的困境中，我們從不停歇、持續構想造車的藍圖；在平均年齡21歲的團隊中，我們從不放棄、秉持勇敢做夢的熱情；在開往國際舞台追夢的道路中，我們從不鬆懈、更需要來自你的支持。
+Bamboo Fox has been committed to the development of gasoline-electric hybrid racing cars for many years. In 2020, it changed to the development of VR5 fuel-powered racing cars, and began to study related technologies of VR6 electric racing cars in 2021. Our bigger and far-reaching goal is to bring our achievements to the world. We originally planned to use the VR6 electric racing car to go to the "International Formula Student Racing Competition" in Japan in September this year to pursue our dreams, and to go international to win glory for Taiwan. Due to the new crown pneumonia, Japan's FSAE officially announced that the 2022 event will cancel the qualifications of foreign teams. In the face of the dilemma of lack of funds, we never stop and continue to conceive the blueprint for building a car; in a team with an average age of 21, we never give up and uphold the passion for brave dreams; on the road to the international stage to pursue dreams , we are never slack and need more support from you.
 
 ## About VR6
 
-有別於 VR5 油車，VR6 因應未來趨勢，以「電車」為目標設計。VR6 首次導入 V-model，先確立工作分配並抓出前代車失誤並找出優化、改進方案，再逐步進行設計目標確立、規格訂定、測試調教，至最終驗證等流程。受疫情影響，VR6 遇上資金困乏、加工時程延誤等狀況，成員們依舊不懈與廠商接洽，並從設計到加工及最後的系統整合皆盡力親自完成，期許 VR6 能延續 VR5 的榮耀。
+Different from the VR5 fuel truck, the VR6 is designed with the goal of "tram" in response to future trends. VR6 introduced V-model for the first time. First, it established the work assignment, caught the mistakes of the previous generation car, and found out the optimization and improvement plan, and then gradually carried out the process of design goal establishment, specification setting, test adjustment, and final verification. Affected by the epidemic, VR6 encountered financial constraints and delays in processing schedules. The members still kept in touch with manufacturers, and did their best to complete everything from design to processing and final system integration. It is hoped that VR6 will continue the glory of VR5.
 
 welcome to old NYTU-VULPES-RACING site, to visite new one → [New](https://nycuvr.github.io/NYCU_VR/)
 
