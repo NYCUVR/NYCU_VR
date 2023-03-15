@@ -1,4 +1,4 @@
-# NYTU-VULPES-RACING website
+# NYCU-VULPES-RACING website
 
 ## About Us
 
