@@ -19,6 +19,14 @@
     background-position: center;
 }
 
+.image_xl2{
+    width: 100%;
+    background-image: url(../img/invoice_white.svg);
+    background-repeat: no-repeat;
+    background-size: 55px;
+    background-position: center;
+}
+
 .image_1{
     width: 100%;
     background-image: url(../img/record_voice_over_white_24dp.svg);
